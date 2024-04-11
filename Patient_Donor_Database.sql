@@ -1,7 +1,6 @@
-Show tables from blooddonatingsystem;
 
 -- Creating tables in the database
-
+Show tables from blooddonatingsystem;
 Create table address
 (
 addressID int primary key,
