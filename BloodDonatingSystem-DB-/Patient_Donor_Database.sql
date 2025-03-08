@@ -1,5 +1,5 @@
 
--- Creating tables in the DB
+-- Creating tables in the Database
 Show tables from blooddonatingsystem;
 Create table address
 (
